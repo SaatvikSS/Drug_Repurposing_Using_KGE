@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../VSCODEING"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "VSCODEING"
+	}
+}
